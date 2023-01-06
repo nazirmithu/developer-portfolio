@@ -30,8 +30,7 @@
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
-
+    padding: 50px 200px;
 }
 
 .nav-title {
@@ -152,8 +151,7 @@ section {
     margin-bottom: 20px;
     color: #181818
 }
-
-.skill-discription {
+.skill-discription{
     color: #757575;
 }
 
